@@ -116,7 +116,7 @@ quarto render relatorio.qmd
 
 | Nome | Matrícula | E-mail institucional | Usuário GitHub |
 |------|-----------|----------------------|----------------|
-|      |           |                      |                |
+| Mateus Cavalcante Rodrigues|22303356|mateuscr2005@gmail.com|Mateus0516|
 |      |           |                      |                |
 |      |           |                      |                |
 
