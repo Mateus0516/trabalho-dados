@@ -201,6 +201,6 @@ Após a execução completa, os seguintes arquivos serão criados na mesma pasta
 | Nome | Matrícula | E-mail institucional | Usuário GitHub |
 |------|-----------|----------------------|----------------|
 |Vitor reis rodrigues de Souza|22308730|vitor.rsouza@sempreceub.com|vitorr0801
-| Mateus Cavalcante Rodrigues|22303356|mateuscr2005@gmail.com|Mateus0516|
+| Mateus Cavalcante Rodrigues|22303356|mateus.cr@sempreceub.com|Mateus0516|
 |      |           |                      |                |
 |      |           |                      |                |
